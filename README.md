@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=fff"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000">
+    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=fff">
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=fff"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"> 
     <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=fff"> 
