@@ -15,7 +15,6 @@
     <br />
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=fff"> 
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"> 
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=fff"> 
     <br /> 
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=fff">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff">
