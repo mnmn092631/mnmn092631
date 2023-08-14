@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=fff">
     <br />
     <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=fff"> 
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff"> 
     <br /> 
     <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=fff">
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff">
@@ -25,6 +24,5 @@
    [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnmn092631)](https://solved.ac/mnmn092631)
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mnmn092631&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnmn092631&layout=compact)](https://github.com/mnmn092631/github-readme-stats)
 </div>
