@@ -23,10 +23,4 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff">
   </div>
   
-  <br/>
-  
-   [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mnmn092631)](https://solved.ac/mnmn092631)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mnmn092631&layout=compact)](https://github.com/mnmn092631/github-readme-stats)
 </div>
