@@ -1,7 +1,5 @@
 <div align="center"> 
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmnmn092631&count_bg=%23C086D9&title_bg=%23CFCFCF&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/mnmn092631)
-  
   # 📚Stacks
   
   <div>
